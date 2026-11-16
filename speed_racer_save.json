@@ -1,0 +1,50 @@
+{
+    "unlocked": 6,
+    "completed": [
+        "0-normal",
+        "0-boss",
+        "1-normal",
+        "1-boss",
+        "2-normal",
+        "2-boss",
+        "3-normal",
+        "3-boss",
+        "4-normal",
+        "4-boss",
+        "5-normal",
+        "5-boss",
+        "6-normal"
+    ],
+    "money": 999999999999,
+    "upgrades": {
+        "engine": 5,
+        "tires": 5,
+        "accel": 5,
+        "armor": 5
+    },
+    "items": {
+        "turbo": 65,
+        "shield": 7,
+        "repair": 0
+    },
+    "best_times": {
+        "0_normal": 21.21,
+        "0_boss": 11.38,
+        "1_normal": 11.75,
+        "1_boss": 12.49,
+        "2_normal": 12.69,
+        "2_boss": 12.63,
+        "3_normal": 12.45,
+        "3_boss": 13.56,
+        "4_normal": 16.01,
+        "4_boss": 14.82,
+        "5_normal": 12.93,
+        "5_boss": 13.48,
+        "6_normal": 14.15
+    },
+    "owned_cars": [
+        "starter",
+        "legend"
+    ],
+    "selected_car": "starter"
+}
